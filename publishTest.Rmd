@@ -31,6 +31,5 @@ res2.pc <- princomp (t (res2))
 ```{r plot}
 biplot (res2.pc)
 ```
-
-http://github.com/ishida-m
-
+このプロジェクトは以下に公開しています
+https://github.com/ishida-m/PublishTest.git
