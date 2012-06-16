@@ -74,3 +74,5 @@ biplot(res2.pc)
 
 
 
+このプロジェクトは以下に公開しています
+https://github.com/ishida-m/PublishTest.git
