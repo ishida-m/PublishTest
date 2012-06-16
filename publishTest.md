@@ -34,7 +34,7 @@ res <- docNgram ("D:/fromC/data/writers", type = 0) # writers はフォルダ名
 res2 <- res[ rownames(res) %in% c("[と-、]", "[て-、]", 
                                   "[は-、]", "[が-、]", 
                                   "[で-、]",  "[に-、]",  
-                                  "[ら-、]",  "[も-、]" ) 
+                                  "[ら-、]",  "[も-、]" ) 
 ```
 
 ```
@@ -76,4 +76,3 @@ biplot(res2.pc)
 
 このプロジェクトは以下に公開しています
 https://github.com/ishida-m/PublishTest.git
-
